@@ -13,7 +13,13 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
   - `Task 2.ipynb`: Jupyter Notebook containing complete analysis
 
 - `visuals/`
-  - `survival_by_class_and_gender.png`: Key visualization created with seaborn
+  - `Age Distribution by Survival.png`
+  - `Correlation Heatmap.png`
+  - `Fare by Passenger Class`
+  - `Passengers by Port of Embarkation`
+  - `Survival Count`
+  - `Survival Rate by Gender`
+  - `Survival Rate by Passenger Class`: Key visualization created with seaborn
 
 ---
 
