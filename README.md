@@ -7,7 +7,8 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
 ## 📁 Project Structure
 
 - `data/`
-  - `train.csv`: Original dataset from Kaggle
+  - `train.csv`
+  - `test.csv` : Original dataset from Kaggle
 
 - `notebooks/`
   - `Task 2.ipynb`: Jupyter Notebook containing complete analysis
