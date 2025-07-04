@@ -8,25 +8,15 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
 
 - `data/`
   - `train.csv`: Original dataset from Kaggle
-  - `titanic_cleaned.csv`: Cleaned and feature-engineered version used for analysis
 
 - `notebooks/`
-  - `titanic_eda.ipynb`: Jupyter Notebook containing complete analysis
+  - `Task 2.ipynb`: Jupyter Notebook containing complete analysis
 
 - `visuals/`
   - `survival_by_class_and_gender.png`: Key visualization created with seaborn
 
 ---
 
-## 🧼 Data Cleaning Highlights
-
-- Dropped irrelevant columns (`PassengerId`, `Cabin`, `Ticket`, etc.)
-- Filled missing values in `Age` and `Embarked`
-- Created new features:
-  - `FamilySize = SibSp + Parch + 1`
-  - `IsChild = Age < 18`
-
----
 
 ## 📊 Key Insights
 
